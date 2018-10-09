@@ -1,5 +1,5 @@
 def dice_roll(integer)
-  puts rand(1..6)
+  rand(1..6)
 end
 
 
