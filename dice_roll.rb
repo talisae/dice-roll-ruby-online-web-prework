@@ -1,4 +1,4 @@
-def dice_roll(integer)
+def dice_roll
   rand(1..6)
 end
 
