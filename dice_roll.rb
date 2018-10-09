@@ -1,4 +1,4 @@
-def dice_roll(1 + rand(6))
+def dice_roll(integer = 1 + rand(6))
   puts "#{integer}"
 end
 
